@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\00-NguyenPhiCuong-Buoi4\thamlam\thamlam\bin\Debug\thamlam.exe.config
+E:\LuuDuLieuSinhVien\00-NguyenPhiCuong-Buoi4\thamlam\thamlam\bin\Debug\thamlam.exe
+E:\LuuDuLieuSinhVien\00-NguyenPhiCuong-Buoi4\thamlam\thamlam\bin\Debug\thamlam.pdb
+E:\LuuDuLieuSinhVien\00-NguyenPhiCuong-Buoi4\thamlam\thamlam\obj\Debug\thamlam.exe
+E:\LuuDuLieuSinhVien\00-NguyenPhiCuong-Buoi4\thamlam\thamlam\obj\Debug\thamlam.pdb
